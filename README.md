@@ -8,3 +8,4 @@ The main purpose of this dashboard is to offer a dynamic and interactive platfor
 - Investigate the impact of payment methods on sales volume or revenue
 
 link : https://public.tableau.com/views/Hasil1_17241276430930/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dataset : https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data/data
